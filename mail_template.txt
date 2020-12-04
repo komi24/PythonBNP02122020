@@ -1,0 +1,4 @@
+Email : {{email}},
+Bonjour {{name}}, Vous êtes intéressé par {{categorie}}.
+Nous avons un produit qui pourrait vous intéresser.
+Prix : {{price}}

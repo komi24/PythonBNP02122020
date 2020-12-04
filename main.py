@@ -1,5 +1,5 @@
-# from PackageBNP.mon_module import dire_bonjour
-from PackageBNP import say_hi, dire_bonjour
+from PackageBNP.mon_module import dire_bonjour
+# from PackageBNP import say_hi, dire_bonjour
 
 # faite deux modules french, english
 # Dans french.py definir dire_bonjour
@@ -8,5 +8,6 @@ from PackageBNP import say_hi, dire_bonjour
 # En paramètre otpionnel on aura age (30) et city (Paris)
 # Elle doivent afficher "Hello I am first_name last_name. I live in city and I'm age y.o."
 
-dire_bonjour("Martin", "Meuriot", 35, "Bordeaux")
-say_hi("Mélanie", "Dupont", city="Valence")
+dire_bonjour()
+# dire_bonjour("Martin", "Meuriot", 35, "Bordeaux")
+# say_hi("Mélanie", "Dupont", city="Valence")
